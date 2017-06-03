@@ -3,7 +3,7 @@ VSCode editor `Debug config` collection
 
 ## Mocha
 
-```json
+```
 {
   // Use IntelliSense to learn about possible Node.js debug attributes.
   // Hover to view descriptions of existing attributes.
@@ -32,7 +32,7 @@ VSCode editor `Debug config` collection
 
 ## Egg
 
-```json
+```
 {
   // Use IntelliSense to learn about possible Node.js debug attributes.
   // Hover to view descriptions of existing attributes.
